@@ -1,0 +1,3 @@
+- This Repo is an accumulation of SQL Automation scripts that I plan to build up over time.
+- These will all omit confidential information and details, however the scripts can be replaced with specific details as needed.
+- Most of these will likely be with Oracledb, but I will likely also include other db scripts as I can.
